@@ -26,7 +26,7 @@
 Код организован по БЭМ Nested.
 
 ## Ccылка на GitHub Pages
-- [@natalis-m]
+- [посмотреть проект](https://natalis-m.github.io/russian-travel/)
 
 ## Автор
 
