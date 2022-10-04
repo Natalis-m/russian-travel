@@ -1,0 +1,13 @@
+.plase__url-heading {
+  color: #aaa;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 1023px) {
+  .plase__url-heading {
+    line-height: 12px;
+  }
+}
