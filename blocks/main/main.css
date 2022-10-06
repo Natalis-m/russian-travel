@@ -17,7 +17,7 @@
 @media (max-width: 1023px) {
   .main {
     max-width: 768px;
-    margin-bottom: 44px ;
+    margin-bottom: 44px;
     gap: 88px;
   }
 }
