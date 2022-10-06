@@ -1,7 +1,7 @@
 .footer {
   max-width: 1184px;
   padding: 46px 0px 24px;
-  margin: auto;
+  margin: 0px auto;
   display: flex;
   justify-content: space-between;
 }
@@ -23,7 +23,7 @@
   .footer {
     max-width: 520px;
     flex-direction: column;
-    gap: 32px;
+    gap: 48px;
     padding-top: 32px;
   }
 }

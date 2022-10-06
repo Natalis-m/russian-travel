@@ -4,7 +4,7 @@
   line-height: 22px;
   max-width: 360px;
   text-align: center;
-  margin: 16px auto 0px;
+  margin: 0px;
   position: relative;
 }
 
@@ -12,7 +12,7 @@
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
-    max-width: 288px;
-    margin: 8px auto 0px;
+    max-width: 255px;
+    margin: 0px;
   }
 }

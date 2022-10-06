@@ -4,3 +4,15 @@
   gap: 80px;
   align-items: center;
 }
+
+@media (max-width: 1023px) {
+  .places {
+    gap: 73px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    gap: 50px;
+  }
+}

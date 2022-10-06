@@ -21,7 +21,7 @@
   }
 }
 
-@media (max-width: 769px) {
+@media (max-width: 767px) {
   .galery {
     grid-template-rows: fit-content(216px);
     grid-template-columns: fit-content(288px);
