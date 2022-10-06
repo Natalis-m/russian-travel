@@ -1,30 +1,31 @@
-.location {
-  max-width: 1280px;
-  padding: 46px 48px;
-  box-sizing: border-box;
-  margin: auto;
+.main {
+  max-width: 1184px;
+  margin: 28px auto 46px;
   display: flex;
   flex-direction: column;
-  gap: 90px;
+  align-items: center;
+  gap: 92px;
 }
 
 @media (max-width: 1279px) {
-  .location {
+  .main {
     max-width: 1024px;
+    margin-top: 20px;
   }
 }
 
 @media (max-width: 1023px) {
-  .location {
+  .main {
     max-width: 768px;
-    padding: 44px 24px;
+    margin-bottom: 44px ;
+    gap: 88px;
   }
 }
 
 @media (max-width: 767px) {
-  .location {
+  .main {
     max-width: 320px;
-    padding: 32px 16px;
+    margin-bottom: 32px;
     gap: 64px;
   }
 }

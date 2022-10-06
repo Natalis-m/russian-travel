@@ -1,35 +1,36 @@
 .footer {
-  max-width: 1280px;
+  max-width: 1184px;
+  padding: 46px 0px 24px;
   margin: auto;
-  padding: 46px 48px 24px;
   display: flex;
-  gap: 18px;
   justify-content: space-between;
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media (max-width: 1279px) {
   .footer {
     max-width: 928px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .footer {
     max-width: 720px;
-    padding: 44px 24px 24px;
+    padding-top: 44px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .footer {
     max-width: 520px;
     flex-direction: column;
-    padding: 34px 100px 24px 16px;
+    gap: 32px;
+    padding-top: 32px;
   }
 }
 
 @media (max-width: 520px) {
   .footer {
     max-width: 186px;
+    padding-right: 100px;
   }
 }

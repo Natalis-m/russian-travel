@@ -2,7 +2,11 @@
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 12px;
   line-height: 18px;
+}
+
+.intro__list span {
+  font-weight: 400;
 }
